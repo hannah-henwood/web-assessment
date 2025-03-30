@@ -178,12 +178,3 @@ Ungvarsky, J. (2024). Public-Key Cryptography. Retrieved from EBSCO: https://www
 
 
 
-
-
-
-
-
-
-
-
-![Padlock with keys from a computer keyboard](/web-assessment/docs/assets/images/padlock-keyboard-image-unsplash.jpg)
